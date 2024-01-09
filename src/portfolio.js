@@ -419,28 +419,28 @@ const certifications = {
   certifications: [
     {
       title: "Machine Learning",
-      subtitle: "- Andrew Ng",
+      subtitle: "- Machine Learning training",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://www.coursera.org",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
+    // {
+    //   title: "Deep Learning",
+    //   subtitle: "- Andrew Ng",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
     {
       title: "ML on GCP",
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.coursera.org",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -507,24 +507,24 @@ const certifications = {
     //   alt_name: "GCP",
     //   color_code: "#4285F499",
     // },
-    {
-      title: "Cryptography",
-      subtitle: "- Mr Patrick Mwenya",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+    // {
+    //   title: "Cryptography",
+    //   subtitle: "- Mr Patrick Mwenya",
+    //   logo_path: "nptel_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+    //   alt_name: "NPTEL",
+    //   color_code: "#FFBB0099",
+    // },
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
   ],
 };
 
@@ -565,13 +565,24 @@ const experience = {
         {
           title: "Android Developer",
           company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.afrimeta.com",
+          company_url: "https://www.afrimetatechnologies.com",
           logo_path: "freecopy_logo.png",
           duration: "Nov 2017 - Dec 2017",
           location: "Lusaka, Zambia",
           description:
             "AFRIMETA TECH is a Start up in Lusaka, Zambia. ",
           color: "#fc1f20",
+        },
+        {
+          title: "Developer/Product Manager",
+          company: "Axis-Tech",
+          company_url: "https://twitter.com/axistechzm",
+          logo_path: "axistech.png",
+          duration: "July 2023 - PRESENT",
+          location: "Work From Home",
+          description:
+            " I have worked and contributed to projects involving Tensorflow, Scikit-learn, Python, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          color: "#181717",
         },
       ],
     },
@@ -612,6 +623,7 @@ const experience = {
         //     "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
         //   color: "#0071C5",
         // },
+        
       ],
     },
     {
@@ -698,10 +710,10 @@ const publications = {
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in A3T ",
+      createdAt: "2023-03-06T16:26:54Z",
+      description: "Paper Written on Artificial Intelligence published in A3T is still under development ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "www.github.com/bonaventure-msonoi",
     },
     // {
     //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
@@ -742,14 +754,14 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Get In Touch",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_bonnie.jpg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, and Cloud Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons and key notes that create impact on each of the reader individually to change the core of their perception.",
+      "For individual fundamental empowerment, I would like to write powerful lessons and key notes that create impact on each of the reader individually to change the core of their perception in future.",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
