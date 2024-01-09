@@ -14,7 +14,7 @@ export default function Podcast() {
       <div className="podcast-main-div">
         {podcastSection.podcast.map((podcastLink) => {
           return (
-            <div>
+            <div> 
               <iframe
                 title="podcast"
                 className="podcast"

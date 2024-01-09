@@ -580,7 +580,7 @@ const experience = {
       experiences: [
         {
           title: "Web and App dev intern",
-          company: "TikTok Inc.",
+          company: "Afrimeta Technologies.",
           company_url: "https://www.afrimetatechnologies.com",
           logo_path: "afrimeta.png",
           duration: "june 2022 - sept 2022",
@@ -593,11 +593,11 @@ const experience = {
           title: "Web dev intern",
           company: "Afrimeta Technologies.",
           company_url: "https://www.afrimetatechnologies.com/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "afrimeta.png",
           duration: "june 2023 - Sept 2023",
           location: "EEZEE offices, nangwenya Rd, off addis-ababa Rd, Lusaka,ZM ",
           description:
-            "i worked as a full stack webdeveloper intern. Spent most of the time on new features, proper documentation, site optimisation and bug fixing in LARAVEL ",
+            "i worked as a full stack webdeveloper intern. Spent most of the time on new features, proper documentation, site optimisation and bug fixing in LARAVEL. ",
           color: "#ee3c26",
         },
         // {
@@ -699,7 +699,7 @@ const publications = {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Artificial Intelligence Paper",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Paper Written on Artificial Intelligence published in A3T ",
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
     },
