@@ -62,8 +62,8 @@ Here are some fun and precise steps to get you started:
 
 ## 📌 Issues
 
-If you encounter any issues or have ideas for improvements, please open an [issue](https://github.com/ashutosh1919/masterPortfolio/issues) and let us know.
+If you encounter any issues or have ideas for improvements, please open an [issue](https://github.com/bonaventure-msonoi/issues) and let us know.
 
 ## 🙏 Thank You
 
-We appreciate your contribution and look forward to working together to make the MasterPortfolio project even better! 😄🚀
+We appreciate your contribution and look forward to working together to make the MyPrtfolio project even better! 😄🚀
