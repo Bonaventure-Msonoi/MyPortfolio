@@ -328,7 +328,7 @@
 // 				stroke-dashoffset: 0;
 // 			}
 // 		}
-//     `,
+//     `,  
 //             }}
 //           />
 //         </defs>
@@ -341,7 +341,7 @@
 
 import React from 'react';
 
-class LogoLoader extends React.Component {
+class LogoLoader extends React.Component { 
   render() {
     return (
       <svg
