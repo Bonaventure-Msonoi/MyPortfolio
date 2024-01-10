@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -20,29 +20,22 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Bonaventure M'sonoi",
-  logo_name: "AshutoshHathidara",
+  logo_name: "Bonaventure M'sonoi",
   nickname: "Bonnie",
   subTitle: 
     "A passionate individual who always thrives to work on problem solving projects that will contribute to sustainable development.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-   portfolio_repository: "https://github.com/",
-  githubProfile: "https://github.com/bonaventure.msonoi",
+    "",
+   portfolio_repository: "https://github.com/bonaventure-msonoi/",
+  githubProfile: "https://github.com/bonaventure-msonoi",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+
 
   {
     name: "Github",
-    link: "https://github.com/bonaventure",
+    link: "https://www.github.com/bonaventure-msonoi",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -54,7 +47,7 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/bonaventuremsonoi",
+    link: "https://youtube.com/bonaventure.msonoi",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
@@ -72,13 +65,13 @@ const socialMediaLinks = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/bonaventuremsonoi/",
+    link: "https://www.facebook.com/bonaventure.msonoi/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com//",
+    link: "https://www.instagram.com/bonaventure_msonoi_depaul",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -339,7 +332,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/",
     },
     // {
     //   siteName: "HackerRank",
@@ -379,7 +372,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/",
     },
   ],
 };
@@ -389,8 +382,8 @@ const degrees = {
     {
       title: "DMI St Eugine University",
       subtitle: "Bachelor of science in Computer Science",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM dmi",
+      logo_path: "dmi2.png",
+      alt_name: "dmi1",
       duration: "2021 - 2025",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like Computer Networks, DS, Algorithms, DBMS, OS, CA, AI, Compuputer graphics, Cryptography etc.",
@@ -494,7 +487,7 @@ const certifications = {
       subtitle: "- Eng. Biasi Wiga",
       logo_path: "afrimeta.png",
       certificate_link:
-        "https://Afrimeta Technologies/",
+        "https://afrimetatechnologies.com/",
       alt_name: "Afrimeta Technologies",
       color_code: "#2A73CC",
     },
@@ -533,7 +526,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as frontend and backend Developer, Designer and Software Architect.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -563,14 +556,14 @@ const experience = {
         //   color: "#9b1578",
         // },
         {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
+          title: "WEB Developer",
+          company: "Afrimeta Technologies. Ltd.",
           company_url: "https://www.afrimetatechnologies.com",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
+          logo_path: "afrimeta.png",
+          duration: "june 2022 - oct 2023",
           location: "Lusaka, Zambia",
           description:
-            "AFRIMETA TECH is a Start up in Lusaka, Zambia. ",
+            "AFRIMETA TECH is a Start up software company based in Lusaka, Zambia, specialised in FINTECH, Software Development and Logistists. ",
           color: "#fc1f20",
         },
         {

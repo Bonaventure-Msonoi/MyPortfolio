@@ -66,4 +66,4 @@ If you encounter any issues or have ideas for improvements, please open an [issu
 
 ## 🙏 Thank You
 
-We appreciate your contribution and look forward to working together to make the MyPrtfolio project even better! 😄🚀
+We appreciate your contribution and look forward to working together to make the MyPortfolio project even better! 😄🚀
