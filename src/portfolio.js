@@ -397,7 +397,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Full Stack Development.",
         "⚡ I had received an award for best performance academics in first year.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.dmiseu.edu.zm/",
     },
     // {
     //   title: "Indiana University Bloomington",
