@@ -491,11 +491,11 @@ const certifications = {
     // },
     {
       title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
+      subtitle: "- Eng. Biasi Wiga",
+      logo_path: "afrimeta.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
+        "https://Afrimeta Technologies/",
+      alt_name: "Afrimeta Technologies",
       color_code: "#2A73CC",
     },
     // {
